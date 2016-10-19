@@ -1,10 +1,6 @@
 # feng3d
 
-[文档](tutorials.md)
-[示例](samples.md)
-[实验台](playground.md)
-
-[gimmick:theme (inverse: true)](flatly)
+[博客](blogs.md)
 
 [gimmick:ThemeChooser](主题)
 
