@@ -156,7 +156,8 @@ mov oc, v0
 
 2015-07-02-now：优化Fagal，使用Context3DBufferIDConfig类进行缓冲编号配置，自动释放不再使用的临时寄存器，优化获取缓冲过程，优化Fagal相关log。
 
-## 最新代码：
+## 最新代码
+
 [http://git.oschina.net/wardenfeng/feng3d](http://git.oschina.net/wardenfeng/feng3d) （必要文件夹 FagalTest、Fagal、fengCommon）
 
 参考：

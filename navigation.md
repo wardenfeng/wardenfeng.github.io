@@ -8,10 +8,12 @@
 
 [demo]()
 
-  * [feng3d demo](feng3d-demo.md)
-  * [2d ARPG demo](2d-arpg-demo.md)
+  * [feng3d demo](demos/feng3d-demo.md)
+  * [2d ARPG demo](demos/2d-arpg-demo.md)
 
   
 [feng3d API](http://images.feng3d.me/feng3dApi/index.html)
+
+[about me](about.md)
 
 [gimmick:ThemeChooser](主题)
