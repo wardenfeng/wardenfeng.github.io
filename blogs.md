@@ -2,6 +2,9 @@
 
 ## 2015-10
 
+[TortoiseGit 连接oschina不用每次输入用户名和密码的方法（转载）](blogs/2015/10/22/2.md)
+[使用tortoisegit访问git@oschina（转载）](blogs/2015/10/22/1.md)
+[WordPress谷歌字体与Gravatar头像加速插件（转载）](blogs/2015/10/16/1.md)
 [MANTIS的附件图片实现预览/弹出层动画效果预览图片(LIGHTBOX2)的完美解决方案（转载）](blogs/2015/10/15/1.md)
 
 ## 2015-07
