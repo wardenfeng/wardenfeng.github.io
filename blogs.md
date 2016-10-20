@@ -39,6 +39,7 @@
 
 ## 2014-10
 
+[Fagal首个实例BaseShaderTest](blogs/2014/10/27/1.md)
 [【转】FLASH BUILDER中自定义元数据标签的代码补全](blogs/2014/10/23/1.md)
 [【转】FLEX中自定义元数据标签](blogs/2014/10/23/2.md)
 
