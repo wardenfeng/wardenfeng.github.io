@@ -1,9 +1,8 @@
-#列表
-
 ## 2017-01
 [Browser support for WebGL 2.0](blogs/2017/01/10/1.md)
 
 ## 2016-10
+[更改hosts访问Google](blogs/2016/10/27/1.md)
 [git瘦身](blogs/2016/10/25/1.md)
 
 ## 2015-10
