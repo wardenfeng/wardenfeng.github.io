@@ -12,8 +12,8 @@
   * [2d ARPG demo](demos/2d-arpg-demo.md)
 
   
-[feng3d API](http://www.feng3d.me/feng3dApi/index.html)
+[feng3d API](feng3dApi/index.html)
 
 [about me](about.md)
 
-[gimmick:ThemeChooser](主题)
+<!--[gimmick:ThemeChooser](主题)-->
