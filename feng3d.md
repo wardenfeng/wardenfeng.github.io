@@ -33,7 +33,7 @@ http://www.feng3d.me/?page_id=30
 [http://git.oschina.net/wardenfeng/feng3d](http://git.oschina.net/wardenfeng/feng3d)
 
 API REFERENCE
-[http://images.feng3d.me/feng3dApi/index.html](http://images.feng3d.me/feng3dApi/index.html)
+[http://www.feng3d.me/feng3dApi/index.html](http://www.feng3d.me/feng3dApi/index.html)
 
 以前版本（有待整理）
 [http://pan.baidu.com/s/1mg5fSRA](http://pan.baidu.com/s/1mg5fSRA)

@@ -1,0 +1,15 @@
+<config>
+		<!--
+		<server>
+			<policy>843</policy>
+			<host>223.166.252.52</host>
+			<port>8887</port>
+		</server>
+		-->
+		<server>
+			<policy>843</policy>
+			<host>feng3d.me</host>
+			<port>8887</port>
+		</server>
+		<rootPath></rootPath>
+</config>
